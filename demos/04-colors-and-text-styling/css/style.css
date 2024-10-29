@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+}
+#first-paragraph{
+    color:rgb(252, 9, 9); 
+    background-color: aqua;
+    font-style: italic;
+    text-align: right;
+
+}
+#second-paragraph{
+    color: #ff0000;
+   background-color: white;
+   font-size:20px;
+   text-decoration: underline;
+   text-decoration: none;
+}
+
+#bold-Paragraph{
+    font-weight: Bold;
+    background-color: #ff0000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif                           ;
+}
+#span1{
+    color:chartreuse;
+    font-weight: bold;
+    font-size:25px;
+}
+#span2{
+    font-style: italic;
+    text-decoration: line-through;
+}#span3{
+    background-color: crimson;
+}
+#span4{
+    text-align: right;
+}
