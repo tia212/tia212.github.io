@@ -3,20 +3,30 @@
     text-align:center
 }
 #palette-color-1{
-    background-color:#ff7733;
+    background-color: #8d6b94;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     padding: 24px;
 }
    #palette-color-2 {
-    background-color: orange;
+    background-color:  violet;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     padding: 20px;
    }
    #palette-color-3 { 
-    background-color: ;
-    
+    background-color: brown;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px;
+   }
+   #palette-color-4 { 
+    background-color:gray;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 25px
    }
