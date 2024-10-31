@@ -1,6 +1,6 @@
 #palette-name { 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align:center
+    text-align:center;
 }
 #palette-color-1{
     background-color: #8d6b94;
@@ -28,5 +28,5 @@
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    padding: 25px
+    padding: 25px;
    }
