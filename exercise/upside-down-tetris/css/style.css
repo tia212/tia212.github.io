@@ -21,7 +21,7 @@
 
 .blue{
     background-color: blue;
-    border-color: blue;
+    border-color: yellowgreen;
 }
 
 .yellow{
@@ -35,7 +35,7 @@
 
 .green{
     background-color: green;
-    border-color: green;
+    border-color: blueviolet;
 }
 
 
@@ -45,11 +45,11 @@
 }
 .skyblue{
     background-color: skyblue;
-    border-color: skyblue;
+    border-color: red;
 }
 .white{
     background-color: white;
-    border-color: white;
+    border-color: black;
 }
 
 
