@@ -1,0 +1,44 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+
+div.frame {
+    border: 10px solid brown;
+    width: 150px;
+
+}
+#div1.frame img {
+    width: 100%;
+    display: block;
+}
+
+
+
+#div.frame {
+    border: 100px solid blue;
+    width: 150px;
+
+}
+
+
+.frame img {
+    width: 100%;
+    display: block;
+}
+
+#div.frame {
+    border: 100px solid black;
+    width: 150px;
+
+}
+
+
+.frame img {
+    width: 100%;
+    display: block;
+}
