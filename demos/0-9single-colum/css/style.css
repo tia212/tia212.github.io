@@ -19,3 +19,9 @@ body {
 background-color: aqua;
 padding: 40px 0px;
 }
+
+.dark-container :{
+    background-color: blue;
+    color: white;
+    padding: 48px 0px;
+}
