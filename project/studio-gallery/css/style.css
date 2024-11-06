@@ -7,38 +7,47 @@
     Good luck, and have fun!
 */
 
-div.frame {
-    border: 10px solid brown;
-
-    width: 150px;
-
-}
-#div1.frame img {
-    width: 100%;
-    display: block;
-}
-
-
-
-#div.frame {
-    border: 100px solid blue;
+div.frame-1 {
+    border: 5px solid brown;
+    background-color: beige;
     width: 100px;
+    padding: 25px;
+    margin: 10px;
+
 }
-
-
-.frame img {
+div.frame-1 img {
     width: 100%;
     display: block;
 }
-
-#div.frame {
-    border: 100px solid black;
-    width: 150px;
-
+p {
+    border:10px solid red;
+    
 }
 
 
-.frame img {
+div.frame-2 {
+    border: 10px solid blue;background-color: antiquewhite;
+    width: 50px;
+    padding: 25px;
+    margin: 10px;
+}
+
+
+.frame-2 img {
+    width: 100%;
+    display: block;
+    
+}
+
+div.frame-3 {
+    border: 10px solid orangered;
+    width: 100px;
+    margin: 16px;
+    
+}
+
+
+.frame-3 img {
     width: 100%;
     display: block;
 }
