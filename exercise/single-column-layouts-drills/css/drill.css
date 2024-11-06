@@ -26,17 +26,18 @@
 
 
 /* Drill 5 - Write your code solution below */
-#cantainer-d5-1 {
+
+#container-d5-1 {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
    
 }
-#cantainer-d5-2 {
+#container-d5-2 {
     width: 50%;
     margin-left: auto;
 }
-#cantainer-d5-3 {
+#container-d5-3 {
     width: 50%;
     margin-right: auto;
    }
