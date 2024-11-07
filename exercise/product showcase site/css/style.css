@@ -30,12 +30,22 @@ padding: 40px 0px;
     padding: 40px 0px;
     }
 
-    .narrow {
+    .noodles1 {
         width: 300px;
         background-color: lightsalmon;
         display: inline-block;}
         
-        .narrow {
+        .noodles1 {
             width: 300px;
             display:block;
+        }
+        div.noodles1 {
+            width: 100px;
+            padding: 25px;
+            margin: 10px;
+        
+        }
+        div.noodles1 {
+            width: 100%;
+            display: block;
         }
