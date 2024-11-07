@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    width:50%;
+    min-width:300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.light-container1 {
+background-color: yellow;
+padding: 40px 0px;
+}
+
+.dark-container {
+    background-color: yellowgreen;
+    color: blue;
+    padding: 48px 0px;
+}
+
+.light-container {
+    background-color: goldenrod;
+    padding: 40px 0px;
+    }
+
+    .narrow {
+        width: 300px;
+        background-color: lightsalmon;
+        display: inline-block;}
+        
+        .narrow {
+            width: 300px;
+            display:block;
+        }
