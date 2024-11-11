@@ -18,6 +18,7 @@ body{
 #sidebar-content{
     grid-area: two;
     padding: 15px;
+    background-color: blue;
 }
 
  #sidebar-content h2{
@@ -36,20 +37,17 @@ body{
     list-style-type: none;
     padding: 0px 12px;
 }
-    
-    
+
     #sidebar-content a {
     color: black;
     text-decoration: none;
     
 }
-    
-    
+       
     #sidebar-content li {
     border-bottom: 1px solid red;
     padding: 8px 1px;
 }
-    
     
     #sidebar-content li:last-child {
     border-bottom: 1px;
