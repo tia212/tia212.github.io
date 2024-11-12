@@ -14,19 +14,22 @@ body {
 
 #column-1{
     min-height: 0vh;
+    padding: 25px;
    
 }
 
 #column-2{
-    min-height: 100vh;
+    min-height: 50vh;
 }
 
 #column-3{
-    min-height: 100vh;
+    min-height: 25vh;
 }
 
 .button1{
     background-color: black;
+    border-color: black;
+    border: 4px;
     padding: 20px;
     color: white;
     border-radius: 15px;
