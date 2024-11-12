@@ -11,7 +11,7 @@
 /* Drill 3 - Write your code solution below */
 #container-3 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 /* Drill 4 - Write your code solution below */

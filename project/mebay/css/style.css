@@ -1,0 +1,110 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#layout {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+
+#column-1{
+    min-height: 0vh;
+   
+}
+
+#column-2{
+    min-height: 100vh;
+}
+
+#column-3{
+    min-height: 100vh;
+}
+
+.button1{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    border-radius: 15px;
+    margin: 25px;
+}
+
+.button2{
+    background-color: lightblue;
+    border: 2px;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+    margin: 2px;
+    text-align: center;
+    
+
+}
+.button3{
+    background-color: lightgray;
+   
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+    margin: 2px;
+    text-align: center;
+    
+}
+
+.button4{
+    background-color: lavender;
+   border-color: black;
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+    margin: 2px;
+    text-align: center;
+    
+}
+
+.button5{
+    background-color: blue;
+   border-color: black;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    margin: 2px;
+    text-align: center;
+    
+}
+
+.button6{
+    background-color: bisque;
+   border-color: black;
+    padding: 5px;
+    color: blue;
+    border-radius: 30px;
+    margin: 2px;
+    text-align: center;
+    
+}
+
+.button7{
+    background-color: bisque;
+   border-color: black;
+    padding: 5px;
+    color: blue;
+    border-radius: 30px;
+    margin: 2px;
+    text-align: center;
+    
+}
+
+.button8{
+    background-color: lightgray;
+      padding: 20px;
+    color: blue;
+    border-radius: 0px;
+    margin: 2px;
+    text-align: center;
+    
+}
