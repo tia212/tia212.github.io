@@ -9,16 +9,104 @@
  
       
     .card-style-1 {
-        
+        background-color: #e7f4e7;
         max-width: 350px;
-        padding: 10px;
-        margin: 24px;
-        text-align: center;
+        margin-top: 15px;
+        margin:16px;
+    }
         
-        
+    .card-style-1 h2 {
+   text-align: center;
+    }
+
+    .card-style-1 p {
+    font-size: 15px;
+    padding: 10px;
+    }
+
+    .card-style-1 img {
+    width:100%
+    }
+
+    .card-style-1 a{
+    color:white;
+    text-decoration: none;
+    display: block;
+    background-color: green;
+    padding:20px;
+    font-size:20px;
+    transition: 
+    backgroung-color 1s,
+    color 1s;
+    text-align: center
     }
 
 
-
-
-
+    .card-style-3 {
+        background-color: #e7f4e7;
+        max-width: 350px;
+        margin-top: 15px;
+        margin:16px;
+        }
+    
+        .card-style-3 h2 {
+        text-align: right;
+        }
+    
+        .card-style-3 p {
+        font-size: 15px;
+        padding: 10px;
+        }
+    
+        .card-style-3 img {
+        width:100%
+        }
+    
+        .card-style-3 a{
+        color:white;
+        text-decoration: none;
+        display: block;
+        background-color: green;
+        padding:20px;
+        font-size:20px;
+        transition: 
+        backgroung-color 1s,
+        color 1s;
+        text-align: center
+        }
+    
+    
+        .card-style-4 {
+            background-color: #e7f4e7;
+            max-width: 350px;
+            margin-top: 15px;
+            margin:16px;
+            }
+        
+            .card-style-4 h2 {
+            text-align: left;
+            }
+        
+            .card-style-4 p {
+            font-size: 15px;
+            padding: 10px;
+            }
+        
+            .card-style-4 img {
+            width:100%
+            }
+        
+            .card-style-4 a{
+            color:white;
+            text-decoration: none;
+            display: block;
+            background-color: green;
+            padding:20px;
+            font-size:20px;
+            transition: 
+            backgroung-color 1s,
+            color 1s;
+            text-align: center
+            }
+        
+        
