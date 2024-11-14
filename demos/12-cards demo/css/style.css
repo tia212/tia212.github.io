@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#centered-column{
+width: 90vw;
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.card {
+    border: 2px solid lightpink;
+    width: 350px;
+    padding: 10px;
+    margin: 24px;
+    text-align: center;
+    box-shadow: -10px 4px 12px black;
+    background: linear-gradient(
+        to right,
+        pink,
+        blue
+    );
+  }
+
+.card h2{
+    font-size: 36px;
+    margin-top: 12px 0px;
+}
+
+.card p {
+    font-size: 18px;
+}
+.card img {
+    width:100%
+}
+
+.card a{
+    color:black;
+    text-decoration: none;
+    border: 3px solid lightcoral;
+    display: block;
+    background-color: lightcoral;
+    padding:10px;
+    font-weight: bold;
+    font-size:20px;
+    transition: 
+    backgroung-color 0.25s,
+    color 0.25s;
+}
+
+.card a:hover{
+background-color: transparent;
+color: lightcoral;
+}
