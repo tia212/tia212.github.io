@@ -1,0 +1,65 @@
+
+.card-style-2 {
+    max-width: 350px;
+    margin-top: 15px;
+    margin:16px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 25px;
+
+}
+  
+.card-style-2 .animagram-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.animagram-footer{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.brand-name{
+    font-size: 25px;
+}
+
+.card-style-2 h2 {
+    text-align: center;
+}
+
+.card-style-2 p {
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+}
+.side-by-side.text {
+    font-size:48px;
+    padding: 10px;
+}
+
+.card-style-2 .profile-pic-container img{
+    width:75%;
+    padding: 20px;
+    color: white;
+    border-radius: 300px;
+    margin: 2px;
+    
+}
+.profile-pic-container{
+    text-align: center;
+}
+
+.card-style-2 a {
+    color:white;
+    text-decoration: none;
+    padding: 10px 0px;
+    font-size:20px;
+    transition: 
+    backgroung-color 1s,
+    color 1s;
+    text-align:right
+    }
+    
