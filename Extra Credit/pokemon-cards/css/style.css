@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box
+}
+
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.card-style-3 {
+    max-width: 350px;
+    margin-top: 15px;
+    margin:16px;
+    background-color: yellow;
+    color: black;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 25px;
+background: linear-gradient(green white);
+box-shadow: 3px;
+}
+
+.card-style-3 .pokemon-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+.power-footer{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    text-decoration: black;
+}
+
+.brand-name{
+    font-size: 25px;
+}
+
+.card-style-2 h2 {
+    text-align: center;
+}
+
+.card-style-2 .nidoran img{
+    width:75%;
+    padding: 2px;
+    color: white;
+    border-radius: 300px;
+    margin: 2px;
+    
+}
