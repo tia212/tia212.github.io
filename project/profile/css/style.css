@@ -12,7 +12,7 @@ body {
     margin: 48px auto;
     text-align: center;
 }
-
+ 
 #index.html {
     background-image: url("../images/5cRrEob8i.jpg.crdownload");
     height: 100vh;
@@ -35,7 +35,7 @@ body {
 }
     
 #index.html h4 {
-   #he font-size: 40px;
+    font-size: 40px;
     margin: 0px;
 }
 
@@ -61,6 +61,7 @@ body {
     justify-content:center;
     align-items:center;
     flex-direction:column;
+    border:25px ;
 }
 
 
@@ -79,5 +80,72 @@ body {
     text-decoration: none;
     padding: 24px;
     margin-top: 36px;
+    border: 25px;
 }
 
+.design-2-grid-gallery img {
+    width: 30%;
+    height: 100px;
+    object-fit: cover;
+   
+}
+ 
+#centered-column {
+    width: 90vw;
+    max-width:50px;
+    margin: 48px auto;
+}
+.card-1 {
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow:-4px4px 12px purple;
+} 
+   
+.card-1 img {
+    width: 100%;
+}
+
+.card-2 a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: purple;
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+
+#centered-column {
+    width: 90vw;
+    max-width:50px;
+    margin: 48px auto;
+}
+    
+.card-2 {
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow:-4px4px 12px purple;
+}
+    
+.card-2 img {
+    width: 100%;
+}
+
+.card-2 a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: purple;
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
