@@ -1,0 +1,28 @@
+
+* {
+    box-sizing: border-box;
+}
+    
+    body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+    
+    
+    #navbar {
+    background: linear-gradient(to bottom, green, #3e6d3e);
+    display: flex;
+}
+    
+    
+    #navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 24px;
+}
+  
+
+#navbar img {
+    width: 200px;
+}
+
