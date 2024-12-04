@@ -139,3 +139,16 @@
     background-color: transparent;
     color: lightblue;
 }
+
+#nav {
+    background-color: #222222;
+    display: flex;
+    justify-content: center;
+}
+    
+#nav a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 20px;
+}
