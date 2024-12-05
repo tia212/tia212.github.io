@@ -5,7 +5,13 @@
     
 body {
     margin: 0px;
-    font-family: sans-serif;
+    font-family:'Lucida Sans', 
+    'Lucida Sans Regular', 
+    'Lucida Grande', 
+    'Lucida Sans Unicode', 
+    Geneva, 
+    Verdana, 
+    sans-serif
 }
 
 #navbar {
@@ -13,7 +19,6 @@ body {
         to bottom, 
         red, 
         blue
-
     );
         display: flex;
         justify-content: space-between;
@@ -61,14 +66,6 @@ body {
     top: 0px;
 }
 
-#navbar-bottom {
-    background: linear-gradient(
-        to bottom, 
-    yellowgreen, 
-    olive);
-    display: flex;
-    justify-content: space-between;
-}  
     
 #navbar-bottom a {
     text-decoration: none;
@@ -105,6 +102,7 @@ padding-left: 100px;
     padding: 24px;
     border-radius: 12px;
     text-align: center;
+    
 }
 
 .card a {
@@ -115,22 +113,17 @@ padding-left: 100px;
     padding: 12px;
     margin-top: 36px;
 }
-    
-#card1:hover {
-    background-color: lightcyan;
-    box-shadow: 4px 4px 4px #00000033;
-    transform: translateY(-4px);
-}
-    
+ 
 #cards2-container {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
+   
 }
     
 .card2 {
-    flex: 300px;
-    border: 3px solid black;
+    flex: 200px;
+    border: 3px solid blue;
     margin: 24px;
     padding: 24px;
     border-radius: 12px;
@@ -145,10 +138,62 @@ padding-left: 100px;
     padding: 12px;
     margin-top: 36px;
 }
-   
 
-     
+#two-columns {
+    display: flex;}
     
+    
+    #sidebar-content {
+    background-color: #cfe2d8;
+    width: 250px;
+    padding: 24px;
+    border-right: 2px solid #72a586;
+}
+    
+#sidebar-content ul {
+    list-style-type: none;
+    padding: 0px;
+}
+    
+    #sidebar-content ul a {
+    color: black;
+    text-decoration: none;
+}
+    
+#sidebar-content ul li {
+    padding: 4px 0px;}
+    
+    
+#main-content {
+    flex: 2;
+    padding: 48px;
+}
+ 
+#cards3-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+   
+}
+    
+.card3 {
+    flex: 200px;
+    border: 5px solid;
+    margin: 24px;
+    padding: 24px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.card3 a {
+    text-decoration: none;
+    color: blue;
+    display: block;
+    border: 5px solid blue;
+    padding: 10px;
+    margin-top: 25px;
+}
+
 #footer {
     background: linear-gradient(
         to bottom, 
