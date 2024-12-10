@@ -58,7 +58,7 @@ function reactToMoveUpButton() {
 }
 
 function reactToAttackButton() {
-attackButton(2);
+attack(2);
 }
 
 function reactToJumpRightButton() {
@@ -79,5 +79,5 @@ jumpUp(5);
 }
 
 function reactToJumpButton() {
-jumpButton(2);
+jump(2);
 }
